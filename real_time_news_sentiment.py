@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Nix86feH7md8AoBCSeMb5EPN7rkDw0gb
 """
 
-!pip install gnews
 
 # -*- coding: utf-8 -*-
 """
