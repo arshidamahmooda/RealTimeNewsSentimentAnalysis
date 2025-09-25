@@ -1,4 +1,4 @@
-Here’s a ready-to-use **`README.md`** for your **Real-Time News Sentiment Dashboard** project using Streamlit and TextBlob:
+
 
 ````markdown
 # Real-Time News Sentiment Dashboard
@@ -119,11 +119,4 @@ streamlit run app.py
 
 MIT License
 
-```
-
----
-
-I can also create a **`requirements.txt`** and a **clean folder structure** for your GitHub repo so it’s **deployment-ready**.  
-
-Do you want me to do that next?
 ```
