@@ -20,7 +20,7 @@ except:
     from gnews import GNews
 
 # ===================== CONFIG =====================
-NEWSAPI_KEY = "YOUR_NEWSAPI_KEY"  # <-- Replace with your NewsAPI key
+NEWSAPI_KEY = "1790ee5393dda1919633f337f9bdfbae"  # <-- Replace with your NewsAPI key
 PRED_DIR = "predictions_parquet"
 os.makedirs(PRED_DIR, exist_ok=True)
 
