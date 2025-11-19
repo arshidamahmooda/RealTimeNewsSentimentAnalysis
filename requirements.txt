@@ -1,7 +1,8 @@
 streamlit
 pandas
 plotly
-textblob
-gnews
+vaderSentiment
+feedparser
 pyarrow
-pyspark
+
+
