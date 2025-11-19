@@ -75,7 +75,7 @@ def fetch_news(limit=20):
 
 # ===================== STREAMLIT UI =====================
 st.set_page_config(page_title="AI News Sentiment", layout="wide")
-st.title("📰 Real-Time News Sentiment (Google RSS + VADER)")
+st.title("📰 Real-Time News Sentiment ")
 
 if st.button("Fetch & Analyze Latest News"):
     df_new = fetch_news(20)
